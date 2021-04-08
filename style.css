@@ -1,0 +1,70 @@
+.header{
+    background-color: purple;
+     display:flex;
+}
+
+.bodying{
+    background-color:aqua;
+    display: flex;
+}
+
+.grid {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border:black;
+    border-radius: 50px;
+
+}
+
+.origami {
+    display:flex;
+    justify-content: space-between;
+    border-radius: 20px;
+    padding:30px;
+    border: black;
+}
+.l{
+    display:flex;
+    justify-content:space-between;
+    padding:30px;
+    border: black;
+}
+.a{
+    display:flex;
+    justify-content:space-between;
+    padding:30px;
+    border: black;
+}
+.c{
+    display:flex;
+    justify-content:space-between;
+    padding:30px;
+    border: black;
+ 
+}
+.p{
+    display:flex;
+    justify-content:space-between;
+    padding:30px;
+    border: black;
+}
+.t{
+    display:flex;
+    justify-content:space-between;
+    padding:30px;
+    border: black;
+}
+body{
+    background: rgb(255, 208, 245);
+}
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    padding:15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color:white;
+}
